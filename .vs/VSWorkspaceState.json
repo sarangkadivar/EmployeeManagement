@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI.BussinessEntities",
+    "\\WebAPI.BussinessEntities\\Model",
+    "\\WebAPI.Data",
+    "\\WebAPI.Data\\DbModels",
+    "\\WebAPI.Repository",
+    "\\WebAPI.Repository\\LoginRepository",
+    "\\WebAPI\\Controllers"
+  ],
+  "SelectedNode": "\\WebAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

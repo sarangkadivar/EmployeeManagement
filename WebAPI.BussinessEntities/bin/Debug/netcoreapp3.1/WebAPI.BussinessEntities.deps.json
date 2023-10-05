@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebAPI.BussinessEntities/1.0.0": {
+        "dependencies": {
+          "Npgsql": "3.0.0"
+        },
+        "runtime": {
+          "WebAPI.BussinessEntities.dll": {}
+        }
+      },
+      "Npgsql/3.0.0": {
+        "runtime": {
+          "lib/net45/Npgsql.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI.BussinessEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Npgsql/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h+4QQumk7W/7EDRk5qiCoN16+UPJQTIpXWXSHtSnMH9kY/HyoXhzUOaeI2QtIpB3r31qU3MFj+opz9B5MebFrA==",
+      "path": "npgsql/3.0.0",
+      "hashPath": "npgsql.3.0.0.nupkg.sha512"
+    }
+  }
+}
